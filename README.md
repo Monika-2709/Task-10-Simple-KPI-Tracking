@@ -1,50 +1,23 @@
-# Task 10 – Simple KPI Tracking Sheet 📊
+# Task 10 – Simple KPI Tracking Sheet
 
-## 📌 Overview
+## Included files
+- `Task_10_Simple_KPI_Tracking.xlsx` – main submission
+- `raw_orders.csv` – synthetic raw order data
+- `Task_10_KPI_Report.pdf` – short report
+- `README.md` – usage notes
 
-This project is part of my Data Analytics Internship Journey – Day 10.
+## KPIs
+1. Total Revenue
+2. Units Sold
+3. Average Order Value
+4. Top Product
+5. Top Product Revenue
 
-The objective was to transform raw transactional order data into a simple, business-ready KPI tracking dashboard using Microsoft Excel.
+## Automatic recalculation
+The Raw Orders data is stored in an Excel Table named `tblOrders`. Add new rows to that table and the KPI formulas recalculate automatically.
 
-## 🎯 KPIs Tracked
+## Dataset
+The original task image did not provide a raw dataset, so this submission includes 150 realistic synthetic retail orders covering 2026-07-01 to 2026-08-31.
 
-- Total Revenue
-- Units Sold
-- Average Order Value
-- Top Product
-- Top Product Revenue
-
-## 🛠️ Tools Used
-
-- Microsoft Excel
-- CSV
-- Data Analysis
-- Excel Tables & Formulas
-
-## ⚙️ Features
-
-- One-page KPI summary dashboard
-- Structured raw order data
-- Automatic KPI recalculation
-- Excel Table-based formulas
-- Currency and number formatting
-- Product-level revenue analysis
-
-## 📂 Files
-
-| File | Description |
-|---|---|
-| `Task_10_Simple_KPI_Tracking.xlsx` | Main Excel KPI dashboard |
-| `raw_orders.csv` | Raw retail order dataset |
-| `Task_10_KPI_Report.pdf` | Project report |
-| `README.md` | Project documentation |
-
-## 📈 Key Learning
-
-This task helped me understand how raw transactional data can be transformed into meaningful business KPIs for easier monitoring and decision-making.
-
-## 👩‍💻 Author
-
-Monika Waghmare
-
-Data Analytics Internship – Day 10
+## Main deliverable
+Open `Task_10_Simple_KPI_Tracking.xlsx` and start on the **KPI Summary** tab.
